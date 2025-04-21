@@ -2,12 +2,12 @@
 <div align="center">
   
   <!-- Introduction -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=5000&pause=1000&center=true&repeat=true&width=435&lines=Hi%2C+I'm+Aditya+Singh)](https://github.com/EchoSingh)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=5000&pause=1000&center=true&repeat=true&width=435&lines=Hi%2C+I'm+Aman+Singh)](https://github.com/inzayn1)
   
   <img src="octocat.gif" alt="octocat" width="50" />
 
   <!-- Connect Section -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=8000&center=true&repeat=false&width=435&lines=Connect)](https://linktr.ee/Aditya.Singh.R)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=8000&center=true&repeat=false&width=435&lines=Connect)](https://linktr.ee/Aman.Singh)
 
 </div>
 <div align="center">
