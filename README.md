@@ -1,73 +1,53 @@
-<!-- Initial Section -->
+# こんにちは 👋
+
 <div align="center">
-  
-  <!-- Introduction -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=5000&pause=1000&center=true&repeat=true&width=435&lines=Hi%2C+I'm+Aman+Singh)](https://github.com/inzayn1)
-  
-  <img src="octocat.gif" alt="octocat" width="50" />
-
-  <!-- Connect Section -->
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=8000&center=true&repeat=false&width=435&lines=Connect)](https://linktr.ee/Aman.Singh)
-
+  <img height="250" width="600" alt="Coding Animation" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzBjaXp4dHN2MnE5dzJuZGc5YWsya2ttOTU0eHU0aWw2eXFxajN6aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2y98KScHKeaQM/giphy.gif" />
 </div>
+
+</br>
+
+## 👨‍💻 About Me
+
+- **Full Stack Developer**
+- 🔭 Currently working on myself
+- 💻 I love writing code
+- 🧠 Currently learning **RUST**
+- 🎬 Ask me anything about **MARVEL** or **Anime**
+
+</br>
+
+## 🌐 Connect with Me
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.aman__singh._) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/Aman_as) 
+
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amansingh1812as@gmail.com)
+
+</br>
+
+## 🛠 Tech Stack
+
 <div align="center">
- <img src="https://github-readme-streak-stats-seven-azure.vercel.app?user=inzayn1&theme=tokyonight-duo&hide_border=true&border_radius=2" alt="streak">
-</div>
-<!--  
-</div>
-<div align="center">
- <img src="https://lanyard.kyrie25.dev/api/1305957634700083212?useDisplayName=true&bg=00000000&waveColor=36BCF7&waveSpotifyColor=36BCF7" alt="Discord Status">
-</div>
- <!-- Main Content Section -->
- 
-<!-- <div align="center">
-
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <h4>Discord</h4>
-        <img src="https://lanyard.kyrie25.dev/api/1305957634700083212" alt="Discord Status">
-        <h4>Holopin badges</h4>
-        <img src="https://holopin.me/adi_s" height="200" alt="Holopin badges">
-        <h4>Stack Overflow</h4>
-        <img src="https://github-readme-stackoverflow.vercel.app/?userID=23373756&theme=dark" height="200" alt="Stack Overflow">
-      </td>
-      <td align="center" width="50%">
-        <h3>GitHub Metrics</h3>
-        <img src="github-metrics-main.svg" alt="GitHub Metrics">
-      </td>
-    </tr>
-
-#
--->
-
-<!--
-</div>
-<div align="center">
- <img src="https://spotify-recently-played-readme.vercel.app/api?user=31k4lyljbzoywe75iwn2sdugx7wq&count=1" alt="Music Status">
-</div>
-<!-- Bottom Section -->
-
-#
-<div align="center">
-<img src="github-metrics-main.svg" alt="GitHub Metrics">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,rust,mongodb,tailwind,cpp&theme=dark&perline=3" />
+  </a>
 </div>
 
-#
-<div align="center">
-  
-  <!-- Typing Animation -->
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&center=true&width=435&lines=Contributions+under+Attack+!!)
-  
-  <!-- GitHub Contribution Snake -->
- ![GitHub Contribution Snake](https://github.com/EchoSingh/EchoSingh/blob/output/snake-cool.svg)  
-  
-  <!-- Footer -->
-  <p>
-    <img src="https://raw.githubusercontent.com/Long18/Long18/refs/heads/dev/assets/footers/cat_on_line.svg?sanitize=true" alt="Footer Image" />
-  </p>
-  
- 
-</div>
+</br>
 
+## ✨ Naruto's Philosophy
 
+```typescript
+// Whenever I feel like I’m going to give up, I read this
+try {
+  const ninjaWay = await Uzumaki.compile({
+    type: "Shinobi",
+    buildPath: "./pain/to/dreams",
+    mode: "Relentless and unbreakable"
+  });
+
+  ninjaWay.execute();
+} catch (failure) {
+  console.summoningJutsu("I'm not gonna run away, I never go back on my word... that's my nindō.");
+  console.shadowClone("When you give up, your dreams and everything else are gone.");
+}
